@@ -1,0 +1,30 @@
+/* PawPet theme: deep green + warm cream/orange (matches the mobile reference screens) */
+:root {
+  --ion-color-primary: #1f5a3a;
+  --ion-color-primary-rgb: 31, 90, 58;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #1b4f33;
+  --ion-color-primary-tint: #356a4e;
+
+  --ion-color-secondary: #ff8a4c;
+  --ion-color-secondary-rgb: 255, 138, 76;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #e07943;
+  --ion-color-secondary-tint: #ff9560;
+
+  --ion-color-success: #2fb36d;
+  --ion-color-warning: #f0a94b;
+  --ion-color-danger: #e5645a;
+
+  --ion-background-color: #ffffff;
+  --ion-text-color: #12261b;
+  --ion-font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+  --pp-green: #1f5a3a;
+  --pp-green-dark: #0f3b24;
+  --pp-cream: #fbeed9;
+  --pp-orange: #ff8a4c;
+  --pp-muted: #6b8173;
+}

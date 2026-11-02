@@ -1,0 +1,7 @@
+FIRST_RUN_PASSWORDS.txt
+server_address.txt
+node_modules/
+__pycache__/
+*.pyc
+pawpet-app/www/
+pawpet-app/.angular/
